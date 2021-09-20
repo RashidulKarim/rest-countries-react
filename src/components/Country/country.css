@@ -1,0 +1,14 @@
+span{
+    font-weight: bold;
+}
+img{
+    width: 400px;
+    height: 250px;
+}
+.country{
+    background-color: rgba(27, 14, 204, 0.692);
+    color: white;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;
+}
